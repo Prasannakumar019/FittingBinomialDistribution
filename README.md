@@ -61,7 +61,8 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```    
 # Output
-![Screenshot (284)](https://user-images.githubusercontent.com/75235090/166411282-0fc80afd-2166-421b-8793-2cb24513edd8.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/75235090/168961204-034fdfcf-3087-4a53-b6fa-6c8cf5ac4a30.png)
+
 # Result
 Thus, fitting poisson distribution for the given frequencey distribution is verified.
 
