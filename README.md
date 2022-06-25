@@ -30,8 +30,8 @@ The following are criteria for a frequency distribution to be a binomial distrib
 # Program
 ```python
 # Developed by
-# Register Number:212220230035
-# Name:Prasannakumar M
+# Register Number:212220230028
+# Name:Lishali.R
 import numpy as np
 import math
 import scipy.stats
